@@ -1,0 +1,9 @@
+{
+  "name": "code-agent",
+  "description": "Software-engineering skill set for a Claude code agent (intended to run on the Fable 5 model). Vendored from mattpocock/skills and addyosmani/agent-skills: TDD, implement, prototype, debugging, code review, architecture, security, CI/CD, docs, and the full define->plan->build->verify->review->ship lifecycle.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mrglennc64",
+    "url": "https://github.com/mrglennc64/gitskills"
+  }
+}

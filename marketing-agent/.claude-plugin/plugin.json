@@ -1,0 +1,9 @@
+{
+  "name": "marketing-agent",
+  "description": "Marketing skill set for a Claude agent. Vendored from coreyhaines31/marketingskills: CRO, copywriting, SEO, paid ads, analytics, retention, pricing, launch, cold email, and growth.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mrglennc64",
+    "url": "https://github.com/mrglennc64/gitskills"
+  }
+}
